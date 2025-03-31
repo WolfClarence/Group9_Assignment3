@@ -1,0 +1,5 @@
+Heap Type,Execution Time (ms)
+MyHeap Min-Heap,746
+PriorityQueue Min-Heap,556
+MyHeap Max-Heap,629
+PriorityQueue Max-Heap,452
